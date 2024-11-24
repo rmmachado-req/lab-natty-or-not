@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Aprendendo sobre Detalhamento Funcional de História de Usuário no SIB2B
 
 ## 📒 Descrição
 Breve descrição do seu projeto
